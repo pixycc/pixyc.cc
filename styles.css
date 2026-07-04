@@ -8,12 +8,12 @@
 
 @font-face {
 	font-family: 'Jura';
-	src: url('./Jura-VariableFont_wght.ttf') format('truetype');
+	src: url('/Jura-VariableFont_wght.ttf') format('truetype');
 } /* primary font on site */
 
 @font-face {
 	font-family: 'PROLOGIK';
-	src: url('./prologik.TTF') format('truetype');
+	src: url('/PROLOGIK.ttf') format('truetype');
 } /* primary font on site */
 
 body { 
