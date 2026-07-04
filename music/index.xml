@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>music on pixyc.cc</title>
+		<link>https://pixyc.cc/music/</link>
+		<description>Recent content in music on pixyc.cc</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Sun, 25 Jan 2026 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="https://pixyc.cc/music/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>pixyc - winter.breakz</title>
+				<link>https://pixyc.cc/music/brkz/</link>
+				<pubDate>Sun, 25 Jan 2026 00:00:00 +0000</pubDate>
+				<guid>https://pixyc.cc/music/brkz/</guid>
+				<description>&lt;p&gt;&lt;picture&gt;&#xD;&#xA;&#xD;&#xA;&#x9;&lt;img&#xD;&#xA;&#xD;&#xA;&#x9;style=&#34;&#xD;&#xA;&#x9;&#x9;max-width: 14rem&#xD;&#xA;&#x9;&#34;&#xD;&#xA;&#xD;&#xA;&#x9;src=&#34;&#xD;&#xA;&#x9;&#x9;/brkz.jpg&#xD;&#xA;&#x9;&#34;&#xD;&#xA;&#xD;&#xA;&#x9;class=inline_image&gt;&#xD;&#xA;&#xD;&#xA;&lt;/picture&gt;&#xA;.: single :: 5:26&lt;br&gt;&#xA;&lt;br&gt;&#xA;breaks / dubstep&lt;br&gt;&#xA;&lt;br&gt;&#xA;released 2026.jan.25&lt;br&gt;&#xA;&lt;br&gt;&#xA;..::: @ noizewell&lt;br&gt;&#xA;&lt;br&gt;&#xA;&lt;a href=&#34;https://www.subvert.fm/pixyc/tracks/winter-breakz&#34;&gt;.::listen &amp;amp; download&lt;/a&gt;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>i&#39;ll fill this out with the rest of my discog soon i swear!!!!!</title>
+				<link>https://pixyc.cc/music/placeholder/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>https://pixyc.cc/music/placeholder/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>misc music</title>
+				<link>https://pixyc.cc/music/0-misc/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>https://pixyc.cc/music/0-misc/</guid>
+				<description>&lt;p&gt;stuff i don&amp;rsquo;t want to be public on sc, yt, and shit&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>

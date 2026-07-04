@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>blog on pixyc.cc</title>
+		<link>https://pixyc.cc/blog/</link>
+		<description>Recent content in blog on pixyc.cc</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Wed, 10 Jun 2026 18:10:12 -0500</lastBuildDate>
+		
+			<atom:link href="https://pixyc.cc/blog/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>under construction!!!!</title>
+				<link>https://pixyc.cc/blog/hi/</link>
+				<pubDate>Wed, 10 Jun 2026 18:10:12 -0500</pubDate>
+				<guid>https://pixyc.cc/blog/hi/</guid>
+				<description>&lt;p&gt;plz wait&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>
