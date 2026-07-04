@@ -2,6 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://pixyc.cc/personal/</loc>
+    <lastmod>2026-07-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://pixyc.cc/personal/stuff/</loc>
+    <lastmod>2026-07-04T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://pixyc.cc/</loc>
     <lastmod>2026-06-09T23:08:17-05:00</lastmod>
   </url><url>
@@ -63,8 +69,6 @@
     <loc>https://pixyc.cc/tags/creations/</loc>
   </url><url>
     <loc>https://pixyc.cc/music/0-misc/</loc>
-  </url><url>
-    <loc>https://pixyc.cc/personal/</loc>
   </url><url>
     <loc>https://pixyc.cc/tags/</loc>
   </url>
