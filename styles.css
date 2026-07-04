@@ -13,7 +13,7 @@
 
 @font-face {
 	font-family: 'PROLOGIK';
-	src: url('./PROLOGIK.ttf') format('truetype');
+	src: url('./prologik.TTF') format('truetype');
 } /* primary font on site */
 
 body { 
