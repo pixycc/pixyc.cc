@@ -7,24 +7,14 @@
 /* hi */
 
 @font-face {
-	font-family: 'Jura';
-	src: url('/Jura-VariableFont_wght.ttf') format('truetype');
-}
-
-@font-face {
 	font-family: 'abc_mono';
 	src: url('/abc_mono.woff2') format('woff2');
-}
-
-@font-face {
-	font-family: 'abc';
-	src: url('/abc.woff2') format('woff2');
-}
+} /* main body font */
 
 @font-face {
 	font-family: 'PROLOGIK';
 	src: url('/prologik.woff') format('woff');
-}
+} /* title display font */
 
 body { 
 	
@@ -44,10 +34,10 @@ body {
 	
 	background-attachment: fixed;
 	background-position: center center;
-	background-size: cover; /* Scales the image to completely fill the container */
+	background-size: cover; /* scale background to fit screen and not move */
 	
 	a {
-		color: inherit; 
+		color: inherit; /* yeah */
 	}
 	
 	.break {
@@ -66,8 +56,6 @@ body {
 			font-size: 3.5rem; 
 			text-align: center;
 			
-			font-weight: 100;
-			
 		}
 	
 	}
@@ -75,7 +63,7 @@ body {
 	#nav {
 	
 		max-width: 54rem; /* text above main page block */
-		margin: auto;
+		margin: auto; /* center the block */
 		font-weight: 250;
 
 		p {
@@ -114,13 +102,11 @@ body {
 			
 		}
 		
-		h3 {
-			font-weight: 420;
+		h3, h1 {
+			font-weight: 420; /* :) */
 		}
 		
-		h1 {
-			font-weight: 420;
-		}
+		/* image shortcode */
 
 		.inline_image {
 
@@ -134,21 +120,19 @@ body {
 
 		}
 		
+		/* all of this is for the title text on list posts */
+		
 		.title_area {
 		  display: flex;
-		  align-items: flex-end; /* Aligns text and dots to the baseline */
-		  width: 100%;           /* Or whatever width you need */
+		  align-items: flex-end; /* align with end */
+		  width: 100%;
 		}
-		
-		.post_title, .post_date {
-		  white-space: nowrap;   /* Prevents text from breaking into multiple lines */
-		}
-		
+
 		.dots {
-		  flex: 1;               /* Tells this element to grow and fill the empty space */
-		  border-bottom: 4px dotted #999; /* Creates the dotted line effect */
-		  margin: 0 10px;        /* Adds a nice gap between the text and the dots */
-		  margin-bottom: 4px;    /* Adjusts the vertical alignment of the dots to line up with text */
+		  flex: 1;               /* fill all empty space */
+		  border-bottom: 4px dotted #999; /* make dottedf line */
+		  margin: 0 10px;        /* small gap */
+		  margin-bottom: 4px;    /* align vertically */
 		}
 		
 	}
