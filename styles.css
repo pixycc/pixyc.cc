@@ -42,9 +42,9 @@ body {
 	
 	background-image: url('./dark.png');
 	
-	background-attachment: fixed; /* doesn't move when you scroll */
-    background-position: center center; /*  ^  */
-	background-size: auto;              /*  ^  */
+	background-attachment: fixed;
+	background-position: center center;
+	background-size: cover; /* Scales the image to completely fill the container */
 	
 	a {
 		color: inherit; 
