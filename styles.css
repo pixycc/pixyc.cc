@@ -9,35 +9,49 @@
 @font-face {
 	font-family: 'Jura';
 	src: url('/Jura-VariableFont_wght.ttf') format('truetype');
-} /* primary font on site */
+}
+
+@font-face {
+	font-family: 'abc_mono';
+	src: url('/abc_mono.woff2') format('woff2');
+}
+
+@font-face {
+	font-family: 'abc';
+	src: url('/abc.woff2') format('woff2');
+}
 
 @font-face {
 	font-family: 'PROLOGIK';
 	src: url('/prologik.woff') format('woff');
-} /* primary font on site */
+}
 
 body { 
 	
 	/* global boilerplate */
 
-	font-family: 'Jura';
+	font-family: 'abc_mono';
 	
 	color: #fff;
 	background-color: #000;
 	
-	font-size: 1.3rem;
-	font-weight: 400; /* idk if these two are good or not */
+	font-size: 1.1rem;
+	font-weight: 250; /* idk if these two are good or not */
 
 	h1, h2, h3, h4, h5, h6, p {margin:0px;} /* caused nav to display distanced from page. also lolz :) */
 	
 	background-image: url('./dark.png');
 	
 	background-attachment: fixed; /* doesn't move when you scroll */
-    background-position: left center; /*  ^  */
-	background-size: auto;            /*  ^  */
+    background-position: center center; /*  ^  */
+	background-size: auto;              /*  ^  */
 	
 	a {
 		color: inherit; 
+	}
+	
+	.break {
+		clear: left; /* Forces this element below any left-floated elements */
 	}
 	
 	#header {
@@ -49,7 +63,7 @@ body {
 			margin-top: 12rem; /* make the site start in center */
 			margin-bottom: 10rem; /* distance the header from the rest of the site */
 			
-			font-size: 3rem; 
+			font-size: 3.5rem; 
 			text-align: center;
 			
 			font-weight: 100;
@@ -62,11 +76,11 @@ body {
 	
 		max-width: 54rem; /* text above main page block */
 		margin: auto;
-		font-weight: 500;
+		font-weight: 250;
 
 		p {
 			margin-bottom: 0; /* no gap from the main page */
-			font-size: 1.6rem;
+			font-size: 1.2rem;
 			color: #ffffff95;
 		}
 		
@@ -95,8 +109,17 @@ body {
 		
 		h2 { /* should be used for only the most attention-grabbing points of the site */
 			
-			font-size: 2rem;
+			font-size: 1.8rem;
+			font-weight: 400;
 			
+		}
+		
+		h3 {
+			font-weight: 420;
+		}
+		
+		h1 {
+			font-weight: 420;
 		}
 
 		.inline_image {
@@ -110,7 +133,24 @@ body {
 			
 
 		}
-			
+		
+		.title_area {
+		  display: flex;
+		  align-items: flex-end; /* Aligns text and dots to the baseline */
+		  width: 100%;           /* Or whatever width you need */
+		}
+		
+		.post_title, .post_date {
+		  white-space: nowrap;   /* Prevents text from breaking into multiple lines */
+		}
+		
+		.dots {
+		  flex: 1;               /* Tells this element to grow and fill the empty space */
+		  border-bottom: 4px dotted #999; /* Creates the dotted line effect */
+		  margin: 0 10px;        /* Adds a nice gap between the text and the dots */
+		  margin-bottom: 4px;    /* Adjusts the vertical alignment of the dots to line up with text */
+		}
+		
 	}
 	
 	/* footer text */
@@ -125,6 +165,43 @@ body {
 			margin-top: 0rem; /* gap between site and footer */
 			margin-bottom: 1.25rem; /* gap on bottom of site */
 			
+		}
+		
+	}
+	
+}
+
+/* 
+	----------------------------
+	-- NARROW SCREEN FALLBACK -- 
+	----------------------------
+*/
+
+
+@media(max-width: 580px){
+	
+	body {
+		
+		#header {
+		
+			h1 {
+
+				font-size: 10vw; /* makes text scale down when it can't fit */
+				
+			}
+		
+		}
+		
+		.inline_image {
+		
+			border-radius: 6px;	/* rounding */
+			margin-right: 0.25rem; /* gaps */
+			margin-bottom: 0.25rem;
+			max-width: 100% !important;
+			
+			outline: solid #ffffff28 1.5px; /* outline */
+			
+		
 		}
 		
 	}
@@ -147,9 +224,11 @@ body {
 		background-color: #fff;
 		background-image: url('./light.png');
 		
-		#nav {
-			
-			color: #00000070;
+	#nav {
+		
+			p {
+				color: #00000095;
+			}
 			
 		}
 		
