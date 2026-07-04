@@ -2,12 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://pixyc.cc/blog/</loc>
-    <lastmod>2026-06-10T18:10:12-05:00</lastmod>
-  </url><url>
-    <loc>https://pixyc.cc/blog/hi/</loc>
-    <lastmod>2026-06-10T18:10:12-05:00</lastmod>
-  </url><url>
     <loc>https://pixyc.cc/</loc>
     <lastmod>2026-06-09T23:08:17-05:00</lastmod>
   </url><url>
@@ -47,13 +41,22 @@
     <loc>https://pixyc.cc/music/inmo/</loc>
     <lastmod>2023-02-21T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://pixyc.cc/art/pyr/</loc>
+    <lastmod>2023-01-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://pixyc.cc/art/crys/</loc>
+    <lastmod>2022-08-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://pixyc.cc/art/shard/</loc>
+    <lastmod>2022-07-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://pixyc.cc/blog/</loc>
+  </url><url>
     <loc>https://pixyc.cc/categories/</loc>
   </url><url>
     <loc>https://pixyc.cc/tags/creations/</loc>
   </url><url>
     <loc>https://pixyc.cc/music/0-misc/</loc>
-  </url><url>
-    <loc>https://pixyc.cc/art/placeholder/</loc>
   </url><url>
     <loc>https://pixyc.cc/personal/</loc>
   </url><url>

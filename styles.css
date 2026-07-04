@@ -69,7 +69,7 @@ body {
 		p {
 			margin-bottom: 0; /* no gap from the main page */
 			font-size: 1.2rem;
-			color: #ffffff95;
+			color: #ffffffd0;
 		}
 		
 	}
@@ -162,7 +162,7 @@ body {
 */
 
 
-@media(max-width: 580px){
+@media(max-width: 620px){
 	
 	body {
 		
@@ -170,7 +170,7 @@ body {
 		
 			h1 {
 
-				font-size: 10vw; /* makes text scale down when it can't fit */
+				font-size: 8.7vw; /* makes text scale down when it can't fit */
 				
 			}
 		
