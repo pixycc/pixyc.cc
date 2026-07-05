@@ -30,16 +30,9 @@
 			<item>
 				<title>pyr</title>
 				<link>https://pixyc.cc/art/pyr/</link>
-				<pubDate>Mon, 02 Jan 2023 00:00:00 +0000</pubDate>
+				<pubDate>Wed, 21 Sep 2022 00:00:00 +0000</pubDate>
 				<guid>https://pixyc.cc/art/pyr/</guid>
-				<description>&lt;p&gt;&lt;picture&gt;&#xD;&#xA;&#xD;&#xA;&#x9;&lt;img&#xD;&#xA;&#xD;&#xA;&#x9;style=&#34;&#xD;&#xA;&#x9;&#x9;max-width: 32rem&#xD;&#xA;&#x9;&#34;&#xD;&#xA;&#xD;&#xA;&#x9;src=&#34;&#xD;&#xA;&#x9;&#x9;/art/py.gif&#xD;&#xA;&#x9;&#34;&#xD;&#xA;&#xD;&#xA;&#x9;class=inline_image&gt;&#xD;&#xA;&#xD;&#xA;&lt;/picture&gt;&#xA;&lt;div style=&#34;clear: both;&#34;&gt;&lt;/div&gt;&#xA;the date is probably inaccurate, i think i remember it being earlier.&lt;/p&gt;&#xA;&lt;p&gt;i should probably make these something more efficient than a gif but i cant be bothered rn&lt;/p&gt;</description>
-			</item>
-			<item>
-				<title>crys</title>
-				<link>https://pixyc.cc/art/crys/</link>
-				<pubDate>Tue, 09 Aug 2022 00:00:00 +0000</pubDate>
-				<guid>https://pixyc.cc/art/crys/</guid>
-				<description>&lt;picture&gt;&#xD;&#xA;&#xD;&#xA;&#x9;&lt;img&#xD;&#xA;&#xD;&#xA;&#x9;style=&#34;&#xD;&#xA;&#x9;&#x9;max-width: 32rem&#xD;&#xA;&#x9;&#34;&#xD;&#xA;&#xD;&#xA;&#x9;src=&#34;&#xD;&#xA;&#x9;&#x9;/art/cr.jpg&#xD;&#xA;&#x9;&#34;&#xD;&#xA;&#xD;&#xA;&#x9;class=inline_image&gt;&#xD;&#xA;&#xD;&#xA;&lt;/picture&gt;</description>
+				<description>&lt;p&gt;&lt;picture&gt;&#xD;&#xA;&#xD;&#xA;&#x9;&lt;img&#xD;&#xA;&#xD;&#xA;&#x9;style=&#34;&#xD;&#xA;&#x9;&#x9;max-width: 32rem&#xD;&#xA;&#x9;&#34;&#xD;&#xA;&#xD;&#xA;&#x9;src=&#34;&#xD;&#xA;&#x9;&#x9;/art/py.gif&#xD;&#xA;&#x9;&#34;&#xD;&#xA;&#xD;&#xA;&#x9;class=inline_image&gt;&#xD;&#xA;&#xD;&#xA;&lt;/picture&gt;&#xA;&lt;div style=&#34;clear: both;&#34;&gt;&lt;/div&gt;&lt;/p&gt;&#xA;&lt;p&gt;i should probably make these something more efficient than a gif but i cant be bothered rn&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>shard</title>
@@ -47,6 +40,13 @@
 				<pubDate>Mon, 25 Jul 2022 00:00:00 +0000</pubDate>
 				<guid>https://pixyc.cc/art/shard/</guid>
 				<description>&lt;p&gt;&lt;picture&gt;&#xD;&#xA;&#xD;&#xA;&#x9;&lt;img&#xD;&#xA;&#xD;&#xA;&#x9;style=&#34;&#xD;&#xA;&#x9;&#x9;max-width: 32rem&#xD;&#xA;&#x9;&#34;&#xD;&#xA;&#xD;&#xA;&#x9;src=&#34;&#xD;&#xA;&#x9;&#x9;/art/sh.gif&#xD;&#xA;&#x9;&#34;&#xD;&#xA;&#xD;&#xA;&#x9;class=inline_image&gt;&#xD;&#xA;&#xD;&#xA;&lt;/picture&gt;&#xA;&lt;div style=&#34;clear: both;&#34;&gt;&lt;/div&gt;&lt;/p&gt;&#xA;&lt;p&gt;yes, i know the gifs on this page are waaayyy inefficient, but im not sure / too lazy to figure out what to do about it right now&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>crys</title>
+				<link>https://pixyc.cc/art/crys/</link>
+				<pubDate>Wed, 04 May 2022 00:00:00 +0000</pubDate>
+				<guid>https://pixyc.cc/art/crys/</guid>
+				<description>&lt;picture&gt;&#xD;&#xA;&#xD;&#xA;&#x9;&lt;img&#xD;&#xA;&#xD;&#xA;&#x9;style=&#34;&#xD;&#xA;&#x9;&#x9;max-width: 32rem&#xD;&#xA;&#x9;&#34;&#xD;&#xA;&#xD;&#xA;&#x9;src=&#34;&#xD;&#xA;&#x9;&#x9;/art/cr.png&#xD;&#xA;&#x9;&#34;&#xD;&#xA;&#xD;&#xA;&#x9;class=inline_image&gt;&#xD;&#xA;&#xD;&#xA;&lt;/picture&gt;</description>
 			</item>
 	</channel>
 </rss>
