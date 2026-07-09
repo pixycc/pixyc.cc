@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>creations on pixyc.cc</title>
-		<link>https://pixyc.cc/tags/creations/</link>
+		<link>/tags/creations/</link>
 		<description>Recent content in creations on pixyc.cc</description>
 		<generator>Hugo</generator>
 		<language>en-us</language>
@@ -10,12 +10,12 @@
 		
 		
 		
-			<atom:link href="https://pixyc.cc/tags/creations/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="/tags/creations/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>misc music</title>
-				<link>https://pixyc.cc/music/0-misc/</link>
+				<link>/music/0-misc/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>https://pixyc.cc/music/0-misc/</guid>
+				<guid>/music/0-misc/</guid>
 				<description>&lt;p&gt;stuff i don&amp;rsquo;t want to be public on sc, yt, and shit&lt;/p&gt;</description>
 			</item>
 	</channel>

@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>personal on pixyc.cc</title>
-		<link>https://pixyc.cc/personal/</link>
+		<link>/personal/</link>
 		<description>Recent content in personal on pixyc.cc</description>
 		<generator>Hugo</generator>
 		<language>en-us</language>
@@ -12,12 +12,12 @@
 		
 			<lastBuildDate>Sat, 04 Jul 2026 00:00:00 +0000</lastBuildDate>
 		
-			<atom:link href="https://pixyc.cc/personal/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="/personal/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>stuff i use * and mostly recommend</title>
-				<link>https://pixyc.cc/personal/stuff/</link>
+				<link>/personal/stuff/</link>
 				<pubDate>Sat, 04 Jul 2026 00:00:00 +0000</pubDate>
-				<guid>https://pixyc.cc/personal/stuff/</guid>
+				<guid>/personal/stuff/</guid>
 				<description>&lt;h2 id=&#34;hardware&#34;&gt;hardware&lt;/h2&gt;&#xA;&lt;p&gt;macbook air, m1 / 16gb / 512gb&lt;/p&gt;&#xA;&lt;p&gt;audient evo 4&lt;/p&gt;&#xA;&lt;p&gt;m-audio keystation mini 32&lt;/p&gt;&#xA;&lt;p&gt;mx master, keychron k4&lt;/p&gt;&#xA;&lt;p&gt;hercules djcontrol inpulse 300 mk2&lt;/p&gt;</description>
 			</item>
 	</channel>

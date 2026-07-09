@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>blog on pixyc.cc</title>
-		<link>https://pixyc.cc/blog/</link>
+		<link>/blog/</link>
 		<description>Recent content in blog on pixyc.cc</description>
 		<generator>Hugo</generator>
 		<language>en-us</language>
@@ -10,6 +10,15 @@
 		
 		
 		
-			<atom:link href="https://pixyc.cc/blog/index.xml" rel="self" type="application/rss+xml" />
+			<lastBuildDate>Thu, 09 Jul 2026 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>track bounty</title>
+				<link>/blog/bounty/</link>
+				<pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate>
+				<guid>/blog/bounty/</guid>
+				<description>&lt;p&gt;tracks i have yet to find decent copies of anywhere&lt;/p&gt;&#xA;&lt;h2 id=&#34;hardcore&#34;&gt;hardcore&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=NpqbMeOJGJ0&#34;&gt;The Acolyte - Make it&amp;hellip;&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;ukg&#34;&gt;ukg&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=vV_T834x-nQ&#34;&gt;David Howard - Journey Through Time&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;electro--fidget&#34;&gt;electro / fidget&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=YKT8xbZ7ZKo&#34;&gt;HouseSick - Boogie Riddim (Filthy Rehab Remix)&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=1rW3SYBZDBM&#34;&gt;Schenk - Stanky&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=FtDp9EhoSDY&#34;&gt;Calvertron - Phat Beat&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+			</item>
 	</channel>
 </rss>

@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>files on pixyc.cc</title>
-		<link>https://pixyc.cc/files/</link>
+		<link>/files/</link>
 		<description>Recent content in files on pixyc.cc</description>
 		<generator>Hugo</generator>
 		<language>en-us</language>
@@ -12,26 +12,26 @@
 		
 			<lastBuildDate>Mon, 09 Feb 2026 00:00:00 +0000</lastBuildDate>
 		
-			<atom:link href="https://pixyc.cc/files/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="/files/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>fuckass drums.7z</title>
-				<link>https://pixyc.cc/files/fad/</link>
+				<link>/files/fad/</link>
 				<pubDate>Mon, 09 Feb 2026 00:00:00 +0000</pubDate>
-				<guid>https://pixyc.cc/files/fad/</guid>
+				<guid>/files/fad/</guid>
 				<description>&lt;p&gt;collection of random mediocre drums i made&lt;br&gt;&#xA;update: LMFAO mediafire censored the name&lt;br&gt;&#xA;&lt;a href=&#34;https://www.mediafire.com/file/jxsr6pqk0p0avoo/f%2Ack%2Ass_drums.7z/file&#34;&gt;download here&lt;/a&gt;&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>digivoid.it</title>
-				<link>https://pixyc.cc/files/divi/</link>
+				<link>/files/divi/</link>
 				<pubDate>Tue, 25 Mar 2025 00:00:00 +0000</pubDate>
-				<guid>https://pixyc.cc/files/divi/</guid>
-				<description>&lt;p&gt;&lt;a href=&#34;https://pixyc.cc/files/digivoid.it&#34;&gt;download&lt;/a&gt;&lt;/p&gt;</description>
+				<guid>/files/divi/</guid>
+				<description>&lt;p&gt;&lt;a href=&#34;/files/digivoid.it&#34;&gt;download&lt;/a&gt;&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>vital presets 2024.zip</title>
-				<link>https://pixyc.cc/files/vital24/</link>
+				<link>/files/vital24/</link>
 				<pubDate>Thu, 06 Jun 2024 00:00:00 +0000</pubDate>
-				<guid>https://pixyc.cc/files/vital24/</guid>
+				<guid>/files/vital24/</guid>
 				<description>&lt;p&gt;all my saved vital presets up to 2024&#xA;&lt;a href=&#34;https://www.mediafire.com/file/cyieqmfucxytrgi/vital_presets_2024.zip/file&#34;&gt;download here&lt;/a&gt;&lt;/p&gt;</description>
 			</item>
 	</channel>
