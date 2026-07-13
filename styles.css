@@ -130,14 +130,14 @@ body {
 		  	width: 100%;
 			margin-bottom: 0.5rem;
 			}
-	
-			.dots {
-		  	flex: 1;               /* fill all empty space */
-		  	border-bottom: 4px dotted #999; /* make dottedf line */
-		  	margin: 0 10px;        /* small gap */
-		  	margin-bottom: 4px;    /* align vertically */
-			}
 		
+		}
+		
+		.dots {
+			  flex: 1;               /* fill all empty space */
+			  border-bottom: 4px dotted #999; /* make dottedf line */
+			  margin: 0 10px;        /* small gap */
+			  margin-bottom: 4px;    /* align vertically */
 		}
 		
 	}
