@@ -10,22 +10,29 @@
 		
 		
 		
-			<lastBuildDate>Thu, 09 Jul 2026 00:00:00 +0000</lastBuildDate>
+			<lastBuildDate>Mon, 13 Jul 2026 00:00:00 +0000</lastBuildDate>
 		
 			<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
 			<item>
-				<title>track bounty</title>
-				<link>/blog/bounty/</link>
-				<pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate>
-				<guid>/blog/bounty/</guid>
-				<description>&lt;p&gt;tracks i have yet to find decent copies of anywhere&lt;/p&gt;</description>
+				<title>my hardware</title>
+				<link>/personal/hardware/</link>
+				<pubDate>Mon, 13 Jul 2026 00:00:00 +0000</pubDate>
+				<guid>/personal/hardware/</guid>
+				<description>&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;macbook air&lt;/strong&gt;, m1 / 16gb / 512gb - allows me the freedom of taking all the work i do at home everywhere i want to. my main &amp;ldquo;&amp;ldquo;&amp;ldquo;desktop&amp;rdquo;&amp;rdquo;&amp;rdquo; at home.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;lg ultrafine 32&amp;quot; 4k 144hz monitor&lt;/strong&gt; - it&amp;rsquo;s overkill for my lower-midrange pc desktop but it was a good deal. i still feel weird about having it, but no one wants to buy it. oh well.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;audio technica ath-m50x&lt;/strong&gt; - very stimulating headphones. not the most comfortable out there. the hinge broke so i had to glue it back together, now it sits lopsided.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
 			</item>
 			<item>
-				<title>stuff i use * and mostly recommend</title>
-				<link>/personal/stuff/</link>
-				<pubDate>Sat, 04 Jul 2026 00:00:00 +0000</pubDate>
-				<guid>/personal/stuff/</guid>
-				<description>&lt;h2 id=&#34;hardware&#34;&gt;hardware&lt;/h2&gt;&#xA;&lt;p&gt;macbook air, m1 / 16gb / 512gb&lt;/p&gt;&#xA;&lt;p&gt;audient evo 4&lt;/p&gt;&#xA;&lt;p&gt;m-audio keystation mini 32&lt;/p&gt;&#xA;&lt;p&gt;mx master, keychron k4&lt;/p&gt;&#xA;&lt;p&gt;hercules djcontrol inpulse 300 mk2&lt;/p&gt;</description>
+				<title>my tiny music player</title>
+				<link>/things/yoton/</link>
+				<pubDate>Mon, 13 Jul 2026 00:00:00 +0000</pubDate>
+				<guid>/things/yoton/</guid>
+				<description>&lt;p&gt;&amp;ldquo;yoton&amp;rdquo; nugget - decent. would recommend for the $20 i think&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>track bounty</title>
+				<link>/personal/bounty/</link>
+				<pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate>
+				<guid>/personal/bounty/</guid>
+				<description>&lt;p&gt;tracks i have yet to find decent copies of anywhere&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>noiz(001) // BREAK-IN event poster</title>
@@ -39,7 +46,7 @@
 				<link>/files/fad/</link>
 				<pubDate>Mon, 09 Feb 2026 00:00:00 +0000</pubDate>
 				<guid>/files/fad/</guid>
-				<description>&lt;p&gt;collection of random mediocre drums i made&lt;br&gt;&#xA;update: LMFAO mediafire censored the name&lt;br&gt;&#xA;&lt;a href=&#34;https://www.mediafire.com/file/jxsr6pqk0p0avoo/f%2Ack%2Ass_drums.7z/file&#34;&gt;download here&lt;/a&gt;&lt;/p&gt;</description>
+				<description>&lt;p&gt;collection of random mediocre electronic drum sounds i made&lt;br&gt;&#xA;update: LMFAO mediafire censored the name&lt;br&gt;&#xA;&lt;br&gt;&#xA;&lt;a href=&#34;https://www.mediafire.com/file/jxsr6pqk0p0avoo/f%2Ack%2Ass_drums.7z/file&#34;&gt;download&lt;/a&gt;&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>pixyc - winter breakz</title>
@@ -88,7 +95,7 @@
 				<link>/files/vital24/</link>
 				<pubDate>Thu, 06 Jun 2024 00:00:00 +0000</pubDate>
 				<guid>/files/vital24/</guid>
-				<description>&lt;p&gt;all my saved vital presets up to 2024&#xA;&lt;a href=&#34;https://www.mediafire.com/file/cyieqmfucxytrgi/vital_presets_2024.zip/file&#34;&gt;download here&lt;/a&gt;&lt;/p&gt;</description>
+				<description>&lt;p&gt;all my saved vital presets up to 2024.&lt;br&gt;&#xA;&lt;br&gt;&#xA;&lt;a href=&#34;https://www.mediafire.com/file/cyieqmfucxytrgi/vital_presets_2024.zip/file&#34;&gt;download&lt;/a&gt;&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>pixyc - different nature</title>
@@ -131,6 +138,13 @@
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 				<guid>/music/0-misc/</guid>
 				<description>&lt;p&gt;stuff i don&amp;rsquo;t want to be public on sc, yt, and shit&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>this site is built with:</title>
+				<link>/personal/site/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>/personal/site/</guid>
+				<description>&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;pure html and css&lt;/strong&gt; - the only way i&amp;rsquo;ve ever known.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;nova&lt;/strong&gt; - the only editor i&amp;rsquo;ve ever loved.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;hugo&lt;/strong&gt; - a static site generator, to make adding content easier&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
 			</item>
 	</channel>
 </rss>

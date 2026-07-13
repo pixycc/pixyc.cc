@@ -26,18 +26,18 @@ body {
 	background-color: #000;
 	
 	font-size: 1.1rem;
-	font-weight: 250; /* idk if these two are good or not */
+	font-weight: 250;
 
 	h1, h2, h3, h4, h5, h6, p {margin:0px;} /* caused nav to display distanced from page. also lolz :) */
 	
 	background-image: url('./dark.png');
 	
-	background-attachment: fixed;
-	background-position: center center;
+	background-attachment: fixed;       /* | */
+	background-position: center center; /* V */
 	background-size: cover; /* scale background to fit screen and not move */
 	
 	a {
-		color: inherit; /* yeah */
+		color: inherit; /* need i say more */
 	}
 	
 	.break {
@@ -84,12 +84,9 @@ body {
 
 		padding: 0.25rem; /* yeah */
 		
-
-		margin-top: 0px; /* no gap from the main page */
-		
 		max-width: 54rem; /* max size */
 		
-		margin: auto; /* centering */
+		margin: 0 auto; /* centering */
 			
 		border-radius: 6px;	/* rounding */
 		
@@ -120,19 +117,27 @@ body {
 
 		}
 		
-		/* all of this is for the title text on list posts */
+		.post {
+			
+			margin-bottom: 0.6rem;
+			margin-top: 0.6rem;
 		
-		.title_area {
-		  display: flex;
-		  align-items: flex-end; /* align with end */
-		  width: 100%;
-		}
-
-		.dots {
-		  flex: 1;               /* fill all empty space */
-		  border-bottom: 4px dotted #999; /* make dottedf line */
-		  margin: 0 10px;        /* small gap */
-		  margin-bottom: 4px;    /* align vertically */
+			/* all of this is for the title text on list posts */
+			
+			.title_area {
+		  	display: flex;
+		  	align-items: flex-end; /* align with end */
+		  	width: 100%;
+			margin-bottom: 0.5rem;
+			}
+	
+			.dots {
+		  	flex: 1;               /* fill all empty space */
+		  	border-bottom: 4px dotted #999; /* make dottedf line */
+		  	margin: 0 10px;        /* small gap */
+		  	margin-bottom: 4px;    /* align vertically */
+			}
+		
 		}
 		
 	}
@@ -176,15 +181,19 @@ body {
 		
 		}
 		
-		.inline_image {
+		#main {
 		
-			border-radius: 6px;	/* rounding */
-			margin-right: 0.25rem; /* gaps */
-			margin-bottom: 0.25rem;
-			max-width: 100% !important;
+			.inline_image {
 			
-			outline: solid #ffffff28 1.5px; /* outline */
+				border-radius: 6px;	/* rounding */
+				margin-right: 0.25rem; /* gaps */
+				margin-bottom: 0.25rem;
+				max-width: 100% !important;
+				
+				outline: solid #ffffff28 1.5px; /* outline */
+				
 			
+			}
 		
 		}
 		
