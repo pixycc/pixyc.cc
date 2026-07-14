@@ -14,11 +14,11 @@
 		
 			<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
 			<item>
-				<title>hi</title>
-				<link>/micro/hi/</link>
+				<title>rym</title>
+				<link>/micro/rym/</link>
 				<pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate>
-				<guid>/micro/hi/</guid>
-				<description>&lt;p&gt;testing hello&lt;/p&gt;&#xA;&lt;p&gt;idk why i decided to wipe my social media out of nowhere but yeah. this is where i dump my thoughts now. probably to a much smaller (maybe zero) audience.&lt;/p&gt;</description>
+				<guid>/micro/rym/</guid>
+				<description>&lt;p&gt;i don&amp;rsquo;t really like engaging with rate your music as a site but damn is it a good resource for learning about / breaking into genres / artists.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>my hardware</title>
