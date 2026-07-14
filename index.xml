@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Mon, 13 Jul 2026 00:00:00 +0000</lastBuildDate>
+			<lastBuildDate>Tue, 14 Jul 2026 00:00:00 +0000</lastBuildDate>
 		
 			<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>hi</title>
+				<link>/micro/hi/</link>
+				<pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate>
+				<guid>/micro/hi/</guid>
+				<description>&lt;p&gt;testing hello&lt;/p&gt;&#xA;&lt;p&gt;idk why i decided to wipe my social media out of nowhere but yeah. this is where i dump my thoughts now. probably to a much smaller (maybe zero) audience.&lt;/p&gt;</description>
+			</item>
 			<item>
 				<title>my hardware</title>
 				<link>/personal/hardware/</link>
@@ -144,7 +151,7 @@
 				<link>/personal/site/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 				<guid>/personal/site/</guid>
-				<description>&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;pure html and css&lt;/strong&gt; - the only way i&amp;rsquo;ve ever known.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;nova&lt;/strong&gt; - the only editor i&amp;rsquo;ve ever loved.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;hugo&lt;/strong&gt; - a static site generator, to make adding content easier&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+				<description>&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;pure html and css&lt;/strong&gt; - the only way i&amp;rsquo;ve ever known. 100% stolen snippets from random forums and guides, 0% from language models.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;nova&lt;/strong&gt; - the only editor i&amp;rsquo;ve ever loved.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;hugo&lt;/strong&gt; - a static site generator, to make adding content easier&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
 			</item>
 	</channel>
 </rss>
