@@ -44,6 +44,13 @@ body {
 		clear: left; /* Forces this element below any left-floated elements */
 	}
 	
+	.dots {
+		  flex: 1;               /* fill all empty space */
+		  border-bottom: 4px dotted #999; /* make dottedf line */
+		  margin: 0 10px;        /* small gap */
+		  margin-bottom: 4px;    /* align vertically */
+	}
+	
 	#header {
 	
 		h1 {
@@ -131,13 +138,6 @@ body {
 			margin-bottom: 0.5rem;
 			}
 		
-		}
-		
-		.dots {
-			  flex: 1;               /* fill all empty space */
-			  border-bottom: 4px dotted #999; /* make dottedf line */
-			  margin: 0 10px;        /* small gap */
-			  margin-bottom: 4px;    /* align vertically */
 		}
 		
 	}
