@@ -10,21 +10,21 @@
 		
 		
 		
-			<lastBuildDate>Tue, 14 Jul 2026 00:00:00 +0000</lastBuildDate>
+			<lastBuildDate>Wed, 22 Jul 2026 00:00:00 +0000</lastBuildDate>
 		
 			<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
 			<item>
-				<title>in my spare time i</title>
-				<link>/micro/spare/</link>
-				<pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate>
-				<guid>/micro/spare/</guid>
-				<description>&lt;p&gt;in my spare time i&lt;/p&gt;&#xA;&lt;p&gt;mindlessly click and navigate around the ui&amp;rsquo;s of my computers and phone, akin to pacing constantly&lt;/p&gt;&#xA;&lt;p&gt;like.&lt;/p&gt;&#xA;&lt;p&gt;an insane amount of time is spent doing that&lt;/p&gt;&#xA;&lt;p&gt;instead of doing anything productive&lt;/p&gt;&#xA;&lt;p&gt;i think i need help&lt;/p&gt;</description>
+				<title>linux update!</title>
+				<link>/blog/linuxupdate/</link>
+				<pubDate>Wed, 22 Jul 2026 00:00:00 +0000</pubDate>
+				<guid>/blog/linuxupdate/</guid>
+				<description>&lt;p&gt;ok ok. since my case and mobo arrived, i finally rebuilt my pc. and since i have a mac now, i&amp;rsquo;ve offload most creative tasks to it. that means there was nothing stopping me from running linux full time on my desktop. my second drives are even all ext4 now you cant tell i&amp;rsquo;m committed. now it acts mostly as a file server and occasional vr machine (vrchat runs ok (not quite as fast), you just need to know about proton-ge-rtsp, wivrn, and wayvr)&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>rym</title>
-				<link>/micro/rym/</link>
+				<link>/blog/rym/</link>
 				<pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate>
-				<guid>/micro/rym/</guid>
+				<guid>/blog/rym/</guid>
 				<description>&lt;p&gt;i don&amp;rsquo;t really like engaging with rate your music (frankly - at least from a distance - though i could be wrong, it seems rather insuffereble) as a site but damn is it a good learning resource / database if you want to learn more about certain genres or artists&lt;/p&gt;</description>
 			</item>
 			<item>
@@ -32,28 +32,42 @@
 				<link>/personal/hardware/</link>
 				<pubDate>Mon, 13 Jul 2026 00:00:00 +0000</pubDate>
 				<guid>/personal/hardware/</guid>
-				<description>&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;macbook air&lt;/strong&gt;, m1 / 16gb / 512gb - allows me the freedom of taking all the work i do at home everywhere i want to. my main &amp;ldquo;&amp;ldquo;&amp;ldquo;desktop&amp;rdquo;&amp;rdquo;&amp;rdquo; at home.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;lg ultrafine 32&amp;quot; 4k 144hz monitor&lt;/strong&gt; - it&amp;rsquo;s overkill for my lower-midrange pc desktop but it was a good deal. i still feel weird about having it, but no one wants to buy it. oh well.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;audio technica ath-m50x&lt;/strong&gt; - very stimulating headphones. not the most comfortable out there. the hinge broke so i had to glue it back together, now it sits lopsided.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+				<description>&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;macbook air&lt;/strong&gt;, m1 / 16gb / 512gb - allows me the freedom of taking all the work i do at home everywhere i want to. my main &amp;ldquo;&amp;ldquo;&amp;ldquo;desktop&amp;rdquo;&amp;rdquo;&amp;rdquo; at home.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;desktop&lt;/strong&gt;. ryzen 3 3100, gtx 1660 super, teamgroup vulcan z 32gb ddr4 @ 3600mhz, 1tb crucial t500, 1tb crucial mx500, 1tb wd caviar blue (from 2013). gigabyte b550m-k. antec truepower 750w from like 2013 (cause the one i had in it broke horribly). montech air 903 max (&lt;strong&gt;would recommend!!&lt;/strong&gt;). mostly just there to host files for me and sometimes stream vr sessions to my quest 3.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;lg ultrafine 32&amp;quot; 4k 144hz monitor&lt;/strong&gt; - it&amp;rsquo;s overkill for my lower-midrange pc desktop but it was a good deal. i still feel weird about having it, but no one wants to buy it. oh well.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;audio technica ath-m50x&lt;/strong&gt; - very stimulating headphones. not the most comfortable out there. the hinge broke so i had to glue it back together, now it sits lopsided.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
 			</item>
 			<item>
 				<title>my tiny music player</title>
-				<link>/things/yoton/</link>
+				<link>/blog/yoton/</link>
 				<pubDate>Mon, 13 Jul 2026 00:00:00 +0000</pubDate>
-				<guid>/things/yoton/</guid>
+				<guid>/blog/yoton/</guid>
 				<description>&lt;p&gt;&amp;ldquo;yoton&amp;rdquo; nugget - decent. would recommend for the $20 i think&lt;/p&gt;</description>
 			</item>
 			<item>
+				<title>this site is built with:</title>
+				<link>/personal/site/</link>
+				<pubDate>Mon, 13 Jul 2026 00:00:00 +0000</pubDate>
+				<guid>/personal/site/</guid>
+				<description>&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;pure html and css&lt;/strong&gt; - the only way i&amp;rsquo;ve ever known. 100% stolen snippets from random forums and guides, 0% from language models.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;nova&lt;/strong&gt; - the only editor i&amp;rsquo;ve ever loved.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;hugo&lt;/strong&gt; - a static site generator, to make adding content easier&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+			</item>
+			<item>
 				<title>track bounty</title>
-				<link>/personal/bounty/</link>
+				<link>/blog/bounty/</link>
 				<pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate>
-				<guid>/personal/bounty/</guid>
+				<guid>/blog/bounty/</guid>
 				<description>&lt;p&gt;tracks i have yet to find decent copies of anywhere&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>.</title>
+				<link>/blog/kb/</link>
+				<pubDate>Sun, 28 Jun 2026 00:00:00 +0000</pubDate>
+				<guid>/blog/kb/</guid>
+				<description>&lt;p&gt;keyboard shortcuts should be CLUSTERED on the LEFT SIDE of the KEYBOARD in almost EVERY situation.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>noiz(001) // BREAK-IN event poster</title>
 				<link>/art/001-poster/</link>
 				<pubDate>Thu, 19 Mar 2026 00:00:00 +0000</pubDate>
 				<guid>/art/001-poster/</guid>
-				<description>&lt;p&gt;&lt;picture&gt;&#xD;&#xA;&#xD;&#xA;&#x9;&lt;img&#xD;&#xA;&#xD;&#xA;&#x9;style=&#34;&#xD;&#xA;&#x9;&#x9;max-width: 16rem&#xD;&#xA;&#x9;&#34;&#xD;&#xA;&#xD;&#xA;&#x9;src=&#34;&#xD;&#xA;&#x9;&#x9;/art/brkn.webp&#xD;&#xA;&#x9;&#34;&#xD;&#xA;&#xD;&#xA;&#x9;class=inline_image&gt;&#xD;&#xA;&#xD;&#xA;&lt;/picture&gt;&lt;br&gt;&#xA;&lt;div style=&#34;clear: both;&#34;&gt;&lt;/div&gt;&#xA;very flawed and rushed. whatever&lt;/p&gt;</description>
+				<description>&lt;p&gt;&lt;picture&gt;&#xD;&#xA;&#xD;&#xA;&#x9;&lt;img&#xD;&#xA;&#xD;&#xA;&#x9;style=&#34;&#xD;&#xA;&#x9;&#x9;max-width: 16rem&#xD;&#xA;&#x9;&#34;&#xD;&#xA;&#xD;&#xA;&#x9;src=&#34;&#xD;&#xA;&#x9;&#x9;/art/brkn.webp&#xD;&#xA;&#x9;&#34;&#xD;&#xA;&#xD;&#xA;&#x9;class=inline_image&gt;&#xD;&#xA;&#xD;&#xA;&lt;/picture&gt;&lt;br&gt;&#xA;&lt;div style=&#34;clear: both;&#34;&gt;&lt;/div&gt;&#xA;very flawed and rushed. whatever&lt;/p&gt;&#xA;&lt;p&gt;obvs i also made the first and following ones but they&amp;rsquo;re a bit less tasteful so i left it out&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>fuckass drums.7z</title>
@@ -147,18 +161,18 @@
 				<description>&lt;picture&gt;&#xD;&#xA;&#xD;&#xA;&#x9;&lt;img&#xD;&#xA;&#xD;&#xA;&#x9;style=&#34;&#xD;&#xA;&#x9;&#x9;max-width: 32rem&#xD;&#xA;&#x9;&#34;&#xD;&#xA;&#xD;&#xA;&#x9;src=&#34;&#xD;&#xA;&#x9;&#x9;/art/cr.png&#xD;&#xA;&#x9;&#34;&#xD;&#xA;&#xD;&#xA;&#x9;class=inline_image&gt;&#xD;&#xA;&#xD;&#xA;&lt;/picture&gt;</description>
 			</item>
 			<item>
+				<title>legacy</title>
+				<link>/art/legacy/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>/art/legacy/</guid>
+				<description>&lt;p&gt;you can find even older art i don&amp;rsquo;t care for on my &lt;a href=&#34;https://www.deviantart.com/perfectfyfth/gallery&#34;&gt;long-defunct deviantart&lt;/a&gt; and my &lt;a href=&#34;https://pixyc.newgrounds.com/art&#34;&gt;also-defunct newgrounds art page&lt;/a&gt;&lt;/p&gt;</description>
+			</item>
+			<item>
 				<title>misc music</title>
 				<link>/music/0-misc/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 				<guid>/music/0-misc/</guid>
 				<description>&lt;p&gt;stuff i don&amp;rsquo;t want to be public on sc, yt, and shit&lt;/p&gt;</description>
-			</item>
-			<item>
-				<title>this site is built with:</title>
-				<link>/personal/site/</link>
-				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>/personal/site/</guid>
-				<description>&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;pure html and css&lt;/strong&gt; - the only way i&amp;rsquo;ve ever known. 100% stolen snippets from random forums and guides, 0% from language models.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;nova&lt;/strong&gt; - the only editor i&amp;rsquo;ve ever loved.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;hugo&lt;/strong&gt; - a static site generator, to make adding content easier&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
 			</item>
 	</channel>
 </rss>

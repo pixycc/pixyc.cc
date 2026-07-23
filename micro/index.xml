@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>microblog on pixyc.cc</title>
-		<link>/micro/</link>
+		<link>//localhost:1313/micro/</link>
 		<description>Recent content in microblog on pixyc.cc</description>
 		<generator>Hugo</generator>
 		<language>en-us</language>
@@ -10,22 +10,50 @@
 		
 		
 		
-			<lastBuildDate>Tue, 14 Jul 2026 00:00:00 +0000</lastBuildDate>
+			<lastBuildDate>Wed, 22 Jul 2026 00:00:00 +0000</lastBuildDate>
 		
-			<atom:link href="/micro/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="//localhost:1313/micro/index.xml" rel="self" type="application/rss+xml" />
 			<item>
-				<title>in my spare time i</title>
-				<link>/micro/spare/</link>
+				<title>linux update!</title>
+				<link>//localhost:1313/micro/linuxupdate/</link>
+				<pubDate>Wed, 22 Jul 2026 00:00:00 +0000</pubDate>
+				<guid>//localhost:1313/micro/linuxupdate/</guid>
+				<description>&lt;p&gt;ok ok. since my case and mobo arrived, i finally rebuilt my pc. and since i have a mac now, i&amp;rsquo;ve offload most creative tasks to it. that means there was nothing stopping me from running linux full time on my desktop. my second drives are even all ext4 now you cant tell i&amp;rsquo;m committed. now it acts mostly as a file server and occasional vr machine (vrchat runs just fine, you just need to know about proton-ge-rtsp, wivrn, and wayvr)&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>.</title>
+				<link>//localhost:1313/micro/lp/</link>
 				<pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate>
-				<guid>/micro/spare/</guid>
-				<description>&lt;p&gt;in my spare time i&lt;/p&gt;&#xA;&lt;p&gt;mindlessly click and navigate around the ui&amp;rsquo;s of my computers and phone, akin to pacing constantly&lt;/p&gt;&#xA;&lt;p&gt;like.&lt;/p&gt;&#xA;&lt;p&gt;an insane amount of time is spent doing that&lt;/p&gt;&#xA;&lt;p&gt;instead of doing anything productive&lt;/p&gt;&#xA;&lt;p&gt;i think i need help&lt;/p&gt;</description>
+				<guid>//localhost:1313/micro/lp/</guid>
+				<description>&lt;p&gt;logic pro makes me think about buses like no other, since everything that exists correlates to a mixer track.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>GNOME</title>
+				<link>//localhost:1313/micro/gnome/</link>
+				<pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate>
+				<guid>//localhost:1313/micro/gnome/</guid>
+				<description>&lt;p&gt;on a 1080p monitor it&amp;rsquo;s horrendous. but on anything higher it&amp;rsquo;s brilliant.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>rym</title>
-				<link>/micro/rym/</link>
+				<link>//localhost:1313/micro/rym/</link>
 				<pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate>
-				<guid>/micro/rym/</guid>
+				<guid>//localhost:1313/micro/rym/</guid>
 				<description>&lt;p&gt;i don&amp;rsquo;t really like engaging with rate your music (frankly - at least from a distance - though i could be wrong, it seems rather insuffereble) as a site but damn is it a good learning resource / database if you want to learn more about certain genres or artists&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>a</title>
+				<link>//localhost:1313/micro/a/</link>
+				<pubDate>Sun, 12 Jul 2026 00:00:00 +0000</pubDate>
+				<guid>//localhost:1313/micro/a/</guid>
+				<description>&lt;p&gt;&amp;ldquo;how will we differentiate the budget version of our product?&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;&amp;ldquo;got it! we append the first letter of the alphabet to the end of it.&amp;rdquo;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>.</title>
+				<link>//localhost:1313/micro/kb/</link>
+				<pubDate>Sun, 28 Jun 2026 00:00:00 +0000</pubDate>
+				<guid>//localhost:1313/micro/kb/</guid>
+				<description>&lt;p&gt;keyboard shortcuts should be CLUSTERED on the LEFT SIDE of the KEYBOARD. ALWAYS.&lt;/p&gt;</description>
 			</item>
 	</channel>
 </rss>

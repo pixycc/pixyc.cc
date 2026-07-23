@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>blog on pixyc.cc</title>
-		<link>//localhost:1313/blog/</link>
+		<link>/blog/</link>
 		<description>Recent content in blog on pixyc.cc</description>
 		<generator>Hugo</generator>
 		<language>en-us</language>
@@ -10,6 +10,43 @@
 		
 		
 		
-			<atom:link href="//localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
+			<lastBuildDate>Wed, 22 Jul 2026 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>linux update!</title>
+				<link>/blog/linuxupdate/</link>
+				<pubDate>Wed, 22 Jul 2026 00:00:00 +0000</pubDate>
+				<guid>/blog/linuxupdate/</guid>
+				<description>&lt;p&gt;ok ok. since my case and mobo arrived, i finally rebuilt my pc. and since i have a mac now, i&amp;rsquo;ve offload most creative tasks to it. that means there was nothing stopping me from running linux full time on my desktop. my second drives are even all ext4 now you cant tell i&amp;rsquo;m committed. now it acts mostly as a file server and occasional vr machine (vrchat runs ok (not quite as fast), you just need to know about proton-ge-rtsp, wivrn, and wayvr)&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>rym</title>
+				<link>/blog/rym/</link>
+				<pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate>
+				<guid>/blog/rym/</guid>
+				<description>&lt;p&gt;i don&amp;rsquo;t really like engaging with rate your music (frankly - at least from a distance - though i could be wrong, it seems rather insuffereble) as a site but damn is it a good learning resource / database if you want to learn more about certain genres or artists&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>my tiny music player</title>
+				<link>/blog/yoton/</link>
+				<pubDate>Mon, 13 Jul 2026 00:00:00 +0000</pubDate>
+				<guid>/blog/yoton/</guid>
+				<description>&lt;p&gt;&amp;ldquo;yoton&amp;rdquo; nugget - decent. would recommend for the $20 i think&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>track bounty</title>
+				<link>/blog/bounty/</link>
+				<pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate>
+				<guid>/blog/bounty/</guid>
+				<description>&lt;p&gt;tracks i have yet to find decent copies of anywhere&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>.</title>
+				<link>/blog/kb/</link>
+				<pubDate>Sun, 28 Jun 2026 00:00:00 +0000</pubDate>
+				<guid>/blog/kb/</guid>
+				<description>&lt;p&gt;keyboard shortcuts should be CLUSTERED on the LEFT SIDE of the KEYBOARD in almost EVERY situation.&lt;/p&gt;</description>
+			</item>
 	</channel>
 </rss>

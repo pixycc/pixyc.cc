@@ -2,29 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/micro/spare/</loc>
-    <lastmod>2026-07-14T00:00:00+00:00</lastmod>
+    <loc>/blog/</loc>
+    <lastmod>2026-07-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/micro/</loc>
-    <lastmod>2026-07-14T00:00:00+00:00</lastmod>
+    <loc>/blog/linuxupdate/</loc>
+    <lastmod>2026-07-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/micro/rym/</loc>
+    <loc>/blog/rym/</loc>
     <lastmod>2026-07-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/personal/hardware/</loc>
     <lastmod>2026-07-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/things/yoton/</loc>
+    <loc>/blog/yoton/</loc>
     <lastmod>2026-07-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/personal/</loc>
     <lastmod>2026-07-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/things/</loc>
+    <loc>/personal/site/</loc>
     <lastmod>2026-07-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/personal/bounty/</loc>
+    <loc>/blog/bounty/</loc>
     <lastmod>2026-07-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/blog/kb/</loc>
+    <lastmod>2026-06-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/</loc>
     <lastmod>2026-06-09T23:08:17-05:00</lastmod>
@@ -84,10 +87,10 @@
   </url><url>
     <loc>/tags/creations/</loc>
   </url><url>
+    <loc>/art/legacy/</loc>
+  </url><url>
     <loc>/music/0-misc/</loc>
   </url><url>
     <loc>/tags/</loc>
-  </url><url>
-    <loc>/personal/site/</loc>
   </url>
 </urlset>
