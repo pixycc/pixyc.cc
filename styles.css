@@ -1,0 +1,63 @@
+@font-face {
+  font-family: jura;
+  src: url(jura.ttf);
+}
+
+
+@font-face {
+  font-family: prologik;
+  src: url(prologik.ttf);
+}
+
+a {
+	color: #fff;
+}
+
+body {
+	
+	font-family: jura;
+	font-weight: 900;
+	
+	background-color: #000;
+	color: #fff;
+	
+	background: url("dark.png");
+	
+}
+
+#main {
+	
+	margin: auto;
+	max-width: 800px;
+	height: 100%;
+	backgound: #fff;
+
+}
+
+h1 {
+	
+	font-family: prologik;
+	font-size: 80px;
+	text-align: center;
+	
+}
+
+h2 {
+	
+	font-size: 30px;
+	
+}
+
+ul {
+	 
+	list-style-type: none;
+	
+}
+ 
+ .small {
+	 
+	font-size: 9px;
+	
+ }
+ 
+ li { font-size: 20px;)
