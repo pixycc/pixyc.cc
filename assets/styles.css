@@ -6,12 +6,12 @@
 
 @font-face {
   font-family: prologik; /* Brainreactor's PROLOGIK */
-  src: url(prologik.ttf);
+  src: url(prologik.woff2);
 }
 
 @font-face {
-  font-family: schengen-mono; /* ABC Schengen (monospace version) */
-  src: url(schengen-mono.ttf);
+  font-family: schengen-mono; /* ABC Dinamo's Schengen (monospace version) */
+  src: url(schengen-mono.woff2);
 }
 
 /* -------- global rules -------- */
