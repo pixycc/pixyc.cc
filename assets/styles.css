@@ -2,6 +2,8 @@
 --pixyc.cc v3 stylesheet--
 ------------------------*/
 
+
+
 /* -------- all the fonts -------- */
 
 @font-face {
@@ -14,7 +16,10 @@
   src: url(schengen-mono.woff2);
 }
 
+
+
 /* -------- global rules -------- */
+
 p {
 	margin: 0px; /* Remove distance from site elements */
 	overflow-wrap: break-word; /* Stop text from making site overflow */
@@ -28,12 +33,9 @@ h1,h2,h3,h4,h5,h6 {
 a {
 	text-decoration: none;
 	color: inherit;
-} /* lol */
+}
 
-img {
-	max-width: 100%;
-	max-height: 100%;
-} /* idk */
+
 
 /* -------- body rules -------- */
 
@@ -59,6 +61,8 @@ body {
 }
 
 
+/* -------- sections -------- */
+
 
 #header { /* BIG text at the top of the site. */
 	
@@ -67,9 +71,11 @@ body {
 	
 	font-size: 40px;
 	
-	padding: 150px 0px;
+	padding: 170px 0px;
 	
 }
+
+
 
 #nav { /* Small text just above the main page leading to different points of interest. */
 	
@@ -81,6 +87,8 @@ body {
 	color: #000000cc;
 	
 }
+
+
 
 #main { /* The main site content. */
 	
@@ -96,6 +104,8 @@ body {
 	h2 {font-weight:500;}
 }
 
+
+
 #footer { /* The small text below the main page */
 	
 	max-width: 800px; /* Width of the whole site. */
@@ -109,53 +119,42 @@ body {
 	
 }
 
+
+/* -------- Special Rules --------- */
+
+.inlineimage {
+	max-width: 200px;
+	border: 1.5px solid #00000030;
+	border-radius: 6px;
+	margin: 4px;
+}
+
+.imagewrapper {
+	display: flex;
+}
+
+@media (max-width: 715px) {
+	.imagewrapper {
+		display: block;
+	}
+	.inlineimage {
+		display: block; 
+		max-width: 97.5%;
+	}
+	#header {font-size: 26px;}
+}
+
+/*------------------------
+--DARK MODE FALL-FORWARD--
+------------------------*/
+
 @media (prefers-color-scheme: dark) {
-	
-	/*------------------------
-	--pixyc.cc v3 stylesheet--
-	------------------------*/
-	
-	/* -------- all the fonts -------- */
-	
-	@font-face {
-	  font-family: prologik; /* Brainreactor's PROLOGIK */
-	  src: url(prologik.woff2);
-	}
-	
-	@font-face {
-	  font-family: schengen-mono; /* ABC Dinamo's Schengen (monospace version) */
-	  src: url(schengen-mono.woff2);
-	}
-	
-	/* -------- global rules -------- */
-	p {
-		margin: 0px; /* Remove distance from site elements */
-		overflow-wrap: break-word; /* Stop text from making site overflow */
-		word-break: break-word; /* ^^^ */
-	}
-	
-	h1,h2,h3,h4,h5,h6 {
-		margin: 0px; /* Remove distance from site elements */
-	}
-	
-	a {
-		text-decoration: none;
-		color: inherit;
-	} /* lol */
-	
-	img {
-		max-width: 100%;
-		max-height: 100%;
-	} /* idk */
-	
-	/* -------- body rules -------- */
-	
 	body {
 		color: #fff;
 		background-color: #000;
-		background-image: url("/assets/bg/dark.png"); /* Fallback just in case. */
+		background-image: url("/assets/bg/dark.png");
 		background-image: image-set(
-			url("/assets/bg/dark.jxl") type("image/jxl"), /* JXL fall-forward */
+			url("/assets/bg/dark.jxl") type("image/jxl"),
 			url("/assets/bg/dark.png")  type("image/png")
 		)
 	}
@@ -165,4 +164,5 @@ body {
 		border: 1.5px solid #ffffff45;
 	}
 	#footer {color: #ffffff70;}
+	.inlineimage {border: 1.5px solid #ffffff45;}
 }
