@@ -1,0 +1,110 @@
+/*------------------------
+--pixyc.cc v3 stylesheet--
+------------------------*/
+
+/* -------- all the fonts -------- */
+
+@font-face {
+  font-family: prologik; /* Brainreactor's PROLOGIK */
+  src: url(prologik.ttf);
+}
+
+@font-face {
+  font-family: schengen-mono; /* ABC Schengen (monospace version) */
+  src: url(schengen-mono.ttf);
+}
+
+/* -------- global rules -------- */
+p {
+	margin: 0px; /* Remove distance from site elements */
+	overflow-wrap: break-word; /* Stop text from making site overflow */
+	word-break: break-word; /* ^^^ */
+}
+
+h1,h2,h3,h4,h5,h6 {
+	margin: 0px; /* Remove distance from site elements */
+}
+
+a {
+	text-decoration: none;
+	color: inherit;
+} /* lol */
+
+img {
+	max-width: 100%;
+	max-height: 100%;
+} /* idk */
+
+/* -------- body rules -------- */
+
+body {
+	
+	color: #000;
+	background-color: #fff;
+	
+	background-image: url("/assets/bg/light.png"); /* Fallback just in case. */
+	background-image: image-set(
+		url("/assets/bg/light.jxl") type("image/jxl"), /* JXL fall-forward */
+		url("/assets/bg/light.png")  type("image/png")
+	);
+	
+	background-attachment: fixed; /* so it fits the viewport instead of the page */
+	background-size: cover; /* so it covers the whole viewport */
+	background-position: top center; /* so you see the middle of it */
+	
+	font-family: schengen-mono;
+	font-size: 20px;
+	font-weight: 250;
+	
+}
+
+
+
+#header { /* BIG text at the top of the site. */
+	
+	font-family: prologik;
+	text-align: center;
+	
+	font-size: 40px;
+	
+	padding: 150px 0px;
+	
+}
+
+#nav { /* Small text just above the main page leading to different points of interest. */
+	
+	max-width: 800px; /* Width of the whole site. */
+	margin: auto; /* Center the main site content */
+	
+	font-weight: 300;
+	font-size: 18px;
+	color: #000000cc;
+	
+}
+
+#main { /* The main site content. */
+	
+	max-width: 800px; /* Width of the whole site. */
+	margin: auto; /* Center the main site content */
+
+	background-color: #ffffff40;
+	backdrop-filter: blur(20px);
+	
+	border: 1.5px solid #00000030;
+	border-radius: 8px;
+	
+	h2 {font-weight:500;}
+}
+
+#footer { /* The small text below the main page */
+	
+	max-width: 800px; /* Width of the whole site. */
+	
+	margin: auto; /* Center the main site content */
+	
+	text-align: center;
+	font-size: 14px;
+	font-weight: 200;
+	color: #00000070;
+	
+}
