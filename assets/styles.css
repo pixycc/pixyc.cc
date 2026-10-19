@@ -30,7 +30,7 @@ h1,h2,h3,h4,h5,h6 {
 	margin: 0px; /* Remove distance from site elements */
 }
 
-a {
+a { /* Archaic link stylings */
 	text-decoration: none;
 	color: inherit;
 }
@@ -54,7 +54,7 @@ body {
 	background-size: cover; /* so it covers the whole viewport */
 	background-position: top center; /* so you see the middle of it */
 	
-	font-family: schengen-mono;
+	font-family: schengen-mono; /* Body typeface */
 	font-size: 20px;
 	font-weight: 250;
 	
@@ -66,12 +66,12 @@ body {
 
 #header { /* BIG text at the top of the site. */
 	
-	font-family: prologik;
+	font-family: prologik; /* Header logotype */
 	text-align: center;
 	
 	font-size: 40px;
 	
-	padding: 170px 0px;
+	padding: 170px 0px; /* Big space between the header text and the rest of the site */
 	
 }
 
@@ -95,10 +95,10 @@ body {
 	max-width: 800px; /* Width of the whole site. */
 	margin: auto; /* Center the main site content */
 
-	background-color: #ffffff40;
+	background-color: #ffffff40; /* Fancy blurred panel background */
 	backdrop-filter: blur(20px);
 	
-	border: 1.5px solid #00000030;
+	border: 1.5px solid #00000030; /* Highlight the borders */
 	border-radius: 8px;
 	
 	h2 {font-weight:500;}
@@ -122,26 +122,35 @@ body {
 
 /* -------- Special Rules --------- */
 
-.inlineimage {
+.inlineimage { /* Mostly for release covers, and maybe other images in articles */
 	max-width: 200px;
 	border: 1.5px solid #00000030;
 	border-radius: 6px;
 	margin: 4px;
 }
 
-.imagewrapper {
+.imagewrapper { /* Box containing both an image and text */
 	display: flex;
 }
 
-@media (max-width: 715px) {
-	.imagewrapper {
+.webbuttons { /* Old-school web buttons in a horizontal array */
+	image-rendering: pixelated;
+	flex-wrap: wrap;
+    display: flex;
+	align-items: center;
+	justify-content: center;
+	gap: 0px; /* Just for now, becuase with the number of icons there are currently, it leaves only one extra on a second line. Will change once I add more. */
+}
+
+@media (max-width: 715px) { /* Make things smaller if the viewport is narrow so they don't exceed the screen */
+	.imagewrapper { /* Make images occupy their own lines */
 		display: block;
 	}
 	.inlineimage {
 		display: block; 
 		max-width: 97.5%;
 	}
-	#header {font-size: 26px;}
+	#header {font-size: 24px} /* Make header text not exceed screen */
 }
 
 /*------------------------
