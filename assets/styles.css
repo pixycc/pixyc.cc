@@ -35,7 +35,7 @@ a { /* Archaic link stylings */
 	color: inherit;
 }
 
-
+h2 {font-weight:400;}
 
 /* -------- body rules -------- */
 
@@ -101,7 +101,6 @@ body {
 	border: 1.5px solid #00000030; /* Highlight the borders */
 	border-radius: 8px;
 	
-	h2 {font-weight:500;}
 }
 
 
@@ -131,6 +130,14 @@ body {
 
 .imagewrapper { /* Box containing both an image and text */
 	display: flex;
+}
+
+.textwrapper {width: 100%}
+audio {
+	width: 97.5%;
+	align-items: center;
+	justify-content: center;
+	
 }
 
 .webbuttons { /* Old-school web buttons in a horizontal array */
