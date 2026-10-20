@@ -35,7 +35,11 @@ a { /* Archaic link stylings */
 	color: inherit;
 }
 
-h2 {font-weight:400;}
+h2 {
+	font-weight:400;
+	font-size: 28 px;
+	
+}
 
 /* -------- body rules -------- */
 
@@ -55,7 +59,7 @@ body {
 	background-position: top center; /* so you see the middle of it */
 	
 	font-family: schengen-mono; /* Body typeface */
-	font-size: 20px;
+	font-size: 18px;
 	font-weight: 250;
 	
 }
@@ -71,7 +75,7 @@ body {
 	
 	font-size: 40px;
 	
-	padding: 170px 0px; /* Big space between the header text and the rest of the site */
+	padding: 180px 0px; /* Big space between the header text and the rest of the site */
 	
 }
 
@@ -149,15 +153,20 @@ audio {
 	gap: 0px; /* Just for now, becuase with the number of icons there are currently, it leaves only one extra on a second line. Will change once I add more. */
 }
 
-@media (max-width: 715px) { /* Make things smaller if the viewport is narrow so they don't exceed the screen */
-	.imagewrapper { /* Make images occupy their own lines */
+/* -------- Width Rules --------- */
+
+@media (max-width: 715px) {
+	#header {font-size: 24px} /* Make header text not exceed screen */
+}
+
+@media (max-width: 520px) {
+	.imagewrapper {
 		display: block;
 	}
 	.inlineimage {
 		display: block; 
 		max-width: 97.5%;
 	}
-	#header {font-size: 24px} /* Make header text not exceed screen */
 }
 
 /*------------------------
