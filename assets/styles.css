@@ -64,6 +64,8 @@ body {
 	
 }
 
+.paragraph {text-indent: 34px} 
+
 
 /* -------- sections -------- */
 
@@ -98,9 +100,12 @@ body {
 	
 	max-width: 800px; /* Width of the whole site. */
 	margin: auto; /* Center the main site content */
-
-	background-color: #ffffff40; /* Fancy blurred panel background */
-	backdrop-filter: blur(20px);
+	@supports backdrop-filter {
+		background-color: #ffffff40; /* Fancy blurred panel background */
+		backdrop-filter: blur(20px);
+	}
+	
+	background-color: #fffffff0; /* More opaque in case browser doesn't support blur
 	
 	border: 1.5px solid #00000030; /* Highlight the borders */
 	border-radius: 8px;
@@ -184,8 +189,12 @@ audio {
 		)
 	}
 	#nav {color: #000000cc;}
-	#main { /* The main site content. */
-		background-color: #00000050;
+	#main {
+		@supports backdrop-filter {
+			background-color: #00000050;
+		}
+		
+		background-color: #000000f0;
 		border: 1.5px solid #ffffff45;
 	}
 	#footer {color: #ffffff70;}
