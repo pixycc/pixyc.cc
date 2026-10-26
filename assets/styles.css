@@ -151,10 +151,10 @@ audio {
     display: flex;
 	align-items: center;
 	justify-content: center;
-	gap: 0px; /* Just for now, becuase with the number of icons there are currently, it leaves only one extra on a second line. Will change once I add more. */
+	gap: 8px;
 }
 
-/* -------- Width Rules --------- */
+/* -------- Page-Width Rules --------- */
 
 @media (max-width: 715px) {
 	#header {font-size: 24px} /* Make header text not exceed screen */
